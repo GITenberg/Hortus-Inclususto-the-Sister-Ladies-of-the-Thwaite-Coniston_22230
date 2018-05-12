@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22230#Hortus-Inclususto-the-Sister-Ladies-of-the-Thwaite-Coniston
 gutenberg_issued: '2007-08-03'
 gutenberg_type: Text
 identifiers:
